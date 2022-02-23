@@ -1,0 +1,448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Socinian controversie touching the Son of God reduced, in a brief essay, to prove the Son one in essence with the Father, upon Socinian principles, concessions and reason : concluded with an humble and serious caution to the friends of the Church of England, against the approaches of Socinianism / by F.F. ...</title>
+            <author>Fullwood, Francis, d. 1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40721</idno>
+            <idno type="STC">Wing F2516</idno>
+            <idno type="STC">ESTC R17950</idno>
+            <idno type="EEBO-CITATION">11865124</idno>
+            <idno type="OCLC">ocm 11865124</idno>
+            <idno type="VID">50080</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50080)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 29:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Socinian controversie touching the Son of God reduced, in a brief essay, to prove the Son one in essence with the Father, upon Socinian principles, concessions and reason : concluded with an humble and serious caution to the friends of the Church of England, against the approaches of Socinianism / by F.F. ...</title>
+                  <author>Fullwood, Francis, d. 1693.</author>
+               </titleStmt>
+               <extent>[6], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. and J. Churchil ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Fr. Fullwood.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Divinity.</term>
+               <term>Socinianism --  Controversial literature.</term>
+               <term>Trinity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50080:1"/>
+            <pb facs="tcp:50080:1" rendition="simple:additions"/>
+            <p>THE SOCINIAN Controverſie TOUCHING <hi>The Son of God,</hi> REDUCED.</p>
+            <p>In a brief Eſſay, To prove the SON one in <hi>Eſſence</hi> with the FATHER, upon <hi>Socinian</hi> Principles, Conceſſions and Reaſon.</p>
+            <p>CONCLUDED With an Humble and Serious <hi>Caution</hi> to the Friends of the CHURCH of ENGLAND, againſt the Approaches of <hi>Socinianiſm.</hi>
+            </p>
+            <p>By <hi>F. F.</hi> D. D.</p>
+            <q>
+               <hi>Quomodo</hi> Pater <hi>genuit</hi> Filium, <hi>nolo diſcutias: expete primo, ſi potes, quomodo</hi> mens <hi>quae intra ſe eſt generet</hi> verbum <hi>quomodo coeleſtis</hi> ignis <hi>generet ex ſeipſo ſplendorem</hi> Lucis. <bibl>
+                  <hi>St.</hi> Hieron.</bibl>
+            </q>
+            <q>
+               <hi>Sempiternus Deus</hi> ſapiens, <hi>Sempiternam ſecum habet</hi> ſapien<g ref="char:EOLhyphen"/>tiam. <bibl>
+                  <hi>St.</hi> Aug.</bibl>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>IMPRIMATUR.</p>
+                        <closer>
+                           <signed>Geo. Royſe, <hi>R. R. in Christo Patri ac Dom. Dom.</hi> Johanni <hi>Archiep.</hi> Cantuar. <hi>à Sacris Domeſt.</hi>
+                           </signed>
+                           <date>December the 9th. 1692.</date>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>A.</hi> and <hi>J. Churchil,</hi> at the <hi>Black Swan</hi> in <hi>Pater-Noſter-Row,</hi> near <hi>Amen-Corner,</hi> 1693.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:50080:2" rendition="simple:additions"/>
+            <pb facs="tcp:50080:2"/>
+            <head>TO THE Right Reverend Father in GOD, GILBERT Lord Biſhop of <hi>SAR<g ref="char:V">Ʋ</g>M.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Lordſhip,</salute>
+            </opener>
+            <p>YOU cannot but remember in how difficult a <hi>Poſt</hi> I ſtood, when you came to <hi>Exon</hi> with the Prince of <hi>O.</hi> (our now moſt Gracious King) I being, with ſome of my Brethren, the <hi>firſt</hi> Clergy-men that were ſummoned to appear before him. And I cannot forget, but ſhall ever, with all due Gratitude, acknowledge your <hi>Lord<g ref="char:EOLhyphen"/>ſhips</hi> then great <hi>Tenderneſs</hi> and <hi>Care</hi> of us, when in thoſe new and <hi>ſtrange</hi> Circumſtances, we did not readily obſerve the <hi>Orders</hi> ſent us.</p>
+            <p>But ſeeing I ſoon afterwards (perhaps the <hi>Firſt</hi> that in Print) endeavour'd to perſwade my Bre<g ref="char:EOLhyphen"/>thren to recognize this <hi>Happy Government,</hi> may I not with the more Freedom obſerve the Prejudi<g ref="char:EOLhyphen"/>ces
+<pb facs="tcp:50080:3"/> it yet labours with, and that the leaſt of them are not the <hi>Fears</hi> of too many among us, that the <hi>Church of England</hi> may ſuffer under it.</p>
+            <p>I have read over your <hi>Lordſhips</hi> late Excellent Treatiſe, called, <hi>The Paſtoral Care,</hi> with no ſmall Satisfaction, and preſume to take this Occaſion to give you my particular humble Thanks for the ſame<g ref="char:punc">▪</g> verily believing, that if the Rules therein given us, were in any good meaſure obſerv'd and put in practice, it would Cure moſt of thoſe Fears.</p>
+            <p>Since your Lordſhips greater Wiſdom ſaw no neceſſity, in a Treatiſe of that nature, of taking much notice of the <hi>Socinian Leven,</hi> 'tis not fit for me to wiſh you had done ſo; yet if I may have leave to judge by my own Experience, I fear, not the leaſt of our Danger is threatned from that Quarter: However, I doubt not, but in the <hi>Exer<g ref="char:EOLhyphen"/>ciſe</hi> of <hi>The Paſtoral Care,</hi> your Lordſhip, with the reſt of our <hi>Venerable Fathers,</hi> will, by the Bleſſing of God, timely prevent it, after the Example of the Ancients.</p>
+            <p>I know your Lordſhip will pardon this Bold<g ref="char:EOLhyphen"/>neſs of,</p>
+            <closer>
+               <salute>My LORD,</salute>
+               <signed>Your Lordſhips much obliged and humbly-devoted Servant, Fr. Fullwood<g ref="char:punc">▪</g>
+               </signed>
+               <dateline>Litton, <hi>near</hi> Dorceſter<g ref="char:punc">▪</g> 
+                  <date>Octob. 14. 1692.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:50080:3"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <p>THE <hi>Crude</hi> Notions of <hi>Cerinthus, Ebion,</hi> the Currier, <hi>Artemon,</hi> and <hi>Samoſatenus,</hi> about our Saviour, which were more Jewiſh and Blaſphemous, were at laſt digeſted and refined by <hi>Photinus,</hi> with the help of his Master <hi>Marcellus,</hi> into that which is now pure <hi>Socinianiſm, viz</hi> That <hi>our Saviour</hi> had no Being before, or but <hi>ex Maria,</hi> from the Virgin <hi>Mary:</hi> For which very Doctrine, as appears by the Sentences of the <hi>Councils,</hi> (ſo ſtrange and horrid it then was to all Chriſtian Ears) the ſaid <hi>Photinus,</hi> tho' Biſhop of <hi>Sirmium,</hi> was con<g ref="char:EOLhyphen"/>demned in a <hi>Synod</hi> in his own City, both by the <hi>Ar<g ref="char:EOLhyphen"/>rians, Semi-Arrians,</hi> and the <hi>Catholiques.</hi>
+            </p>
+            <p>
+               <hi>Photinus,</hi> and this his Hereſie, were condemned in ſix ſeveral Councils; probably, firſt, as Biſhop <hi>Pear<g ref="char:EOLhyphen"/>ſon</hi> obſerves, with his Maſter <hi>Marcellus,</hi> by a Synod
+<pb facs="tcp:50080:4"/> at <hi>Conſtantinople.</hi> 2. By the ſecond Synod at <hi>Antioch.</hi> 3. By a Council at <hi>Sardes.</hi> 4. By a Council at <hi>Milan.</hi> 5. In a Synod at <hi>Sirmium</hi> he was depoſed by the <hi>Weſtern</hi> Biſhops. 6. He was again condemned and depoſed by the <hi>Eaſtern</hi> Biſhops in the ſame City. He was ſo generally condemned too afterwards, that his Opinion was ſoon worn out of the World; <hi>So ſuddenly,</hi> ſaith <hi>Epiphanius, was this Opinion rejected by all Chriſtians, applauded by none but</hi> Julian the Apoſtate, <hi>who railed at St.</hi> John <hi>for making</hi> Chriſt to be GOD, <hi>and com<g ref="char:EOLhyphen"/>mending</hi> Photinus <hi>for denying it.</hi> Vid. <hi>Pearſon</hi> on the Creed, new Ed. p. 119, 120.</p>
+            <p>Now we heard no more of this Doctrine, except one <hi>P. Elebardus</hi> ſtumbled upon it in the 12th Century, until the <hi>Reformation;</hi> when the blaſphemous <hi>Ser<g ref="char:EOLhyphen"/>vetus,</hi> and ſome others not unlike him, began to re<g ref="char:EOLhyphen"/>vive it; and at laſt by <hi>Fauſtus Socinus</hi> it was <hi>for<g ref="char:EOLhyphen"/>med</hi> and perfected into the Body of <hi>Socinianiſm,</hi> as now it is. The ſaid <hi>Socinus</hi> died about 88 years agone; ſuch is the <hi>Pedigree</hi> and <hi>Antiquity</hi> of <hi>So<g ref="char:EOLhyphen"/>cinianiſm.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb n="1" facs="tcp:50080:4"/>
+            <head>THE <hi>Socinian Controverſie</hi> TOUCHING The SON of GOD, Reduc'd, <hi>&amp;c.</hi>
+            </head>
+            <p>WHEN we have to deal with men that allow no other <hi>Principles</hi> but thoſe of their own <hi>Sect,</hi> we may endeavour to fetch our <hi>Weapons</hi> out of the <hi>Adverſaries</hi> Store. Whence I propoſe theſe Arguments following.</p>
+            <div n="1" type="argument">
+               <head>
+                  <hi>ARG. I.</hi> JES<g ref="char:V">Ʋ</g>S CHRIST is to be Adored.</head>
+               <p>THE <hi>Only GOD</hi> which brought <hi>Iſrael</hi> out of <hi>Egypt,</hi> that is, the only God of <hi>Iſrael,</hi> or the only, true and chief God, is to be <hi>Religiouſly</hi> adored and worſhipped; <hi>Thou ſhalt have no other Gods but me.</hi>
+               </p>
+               <p>But <hi>Jeſus Chriſt</hi> is to be religiouſly adored and worſhip<g ref="char:EOLhyphen"/>ped; therefore Jeſus Chriſt is the only God which brought <hi>Iſrael</hi> out of <hi>Egypt;</hi> that is, the only God of <hi>Iſrael,</hi> or true and chief God.</p>
+               <pb n="2" facs="tcp:50080:5"/>
+               <p>This is <hi>David,</hi> a very ſtrict <hi>Socinian</hi>'s Argument againſt <hi>Socinus</hi> himſelf: Not that he approved, but hereby inten<g ref="char:EOLhyphen"/>ded to deſtroy the <hi>minor,</hi> by ſhewing its abſurdity in the Conſequence of it; That if Jeſus Chriſt was ſo to be ado<g ref="char:EOLhyphen"/>red, he was the true and chief God which they both de<g ref="char:EOLhyphen"/>nied.</p>
+               <p>'Tis beſides my deſign to enter upon the Proof of either of theſe Propoſitions, but I obſerve and pronounce, that <hi>Socinus</hi> and his Followers have ſo plainly proved the <hi>ſecond</hi> [That <hi>Jeſus Christ ought to be Religiouſly Adored</hi>] out of the Holy Scriptures, that his two great Opponents in that Point, namely, <hi>Frankin</hi> and that <hi>David,</hi> nor any of their Followers, have, or can, or ever will be able to anſwer them.</p>
+               <p>On the other ſide, theſe Adverſaries of <hi>Socinus</hi> have as irrefragably and invincibly maintain'd, That the <hi>Only God</hi> which brought <hi>Iſrael</hi> out of <hi>Egypt, &amp;c.</hi> ought to be <hi>Re<g ref="char:EOLhyphen"/>ligiouſly Adored.</hi> And 'tis <hi>David</hi>'s own (otherwiſe <hi>Socinian</hi>) Reaſon againſt <hi>Socinus,</hi> That we cannot adore the Son, un<g ref="char:EOLhyphen"/>leſs we ſuppoſe Chriſt to be in the Father, and the Father in Chriſt, <hi>
+                     <g ref="char:V">Ʋ</g>nitate Eſſentiae,</hi> by unity of Eſſence.</p>
+               <p>The Arguments of both ſides you have at large in the <hi>Vol.</hi> of the <hi>Fratres Pol.</hi> where you may ſee how theſe Lear<g ref="char:EOLhyphen"/>ned <hi>Socinians</hi> fight, and conquer each other, and make way for this Orthodox Truth, that <hi>Jeſus Chriſt is that only God</hi> that brought <hi>Iſrael</hi> out of <hi>Egypt, &amp;c.</hi>
+               </p>
+               <p>And methinks <hi>Schlectingius</hi> comes very near it, in thoſe remarkable words in <hi>Rom.</hi> 1. 15. If GOD, ſaith he, give Man Divinity, ſo as that He may be religiouſly worſhip'd, that man, <hi>ratione divini &amp; religioſi cultus,</hi> is not diverſe, and another from God himſelf, but ought to be eſteemed <hi>unus idem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> cum Deo,</hi> one and the ſame with God.</p>
+            </div>
+            <div n="2" type="argument">
+               <pb n="3" facs="tcp:50080:5"/>
+               <head>II. <hi>Chriſt is</hi> True <hi>God.</hi>
+               </head>
+               <p>GOD the <hi>Father</hi> is the <hi>only True God,</hi> Jeſus Chriſt is <hi>true</hi> God, therefore Jeſus Chriſt and God the Father are <hi>one</hi> and the ſame God, otherwiſe there would be <hi>two true</hi> Gods, which would be repugnant to the <hi>only true</hi> God. That God the <hi>Father</hi> is the <hi>only true</hi> God, is ex<g ref="char:EOLhyphen"/>preſly the Doctrine of our Saviour, <hi>Joh.</hi> 17. 3. That Jeſus Chriſt is <hi>true</hi> God, is ſo plain in the Holy Scri<g ref="char:EOLhyphen"/>pture, that <hi>Socinus</hi> and his Followers frequently (they ſay an hundred times) aſſert and maintain it. The Argu<g ref="char:EOLhyphen"/>ment therefore is as ſtrong as our <hi>Saviour</hi> and <hi>Socinus</hi> can make it.</p>
+               <p n="1">1 Note. To obviate ſome triſling Evaſions, when we ſay Jeſus Chriſt is <hi>true</hi> God, we conſider him not ſtrictly under thoſe Denominations; for his Name <hi>Jeſus</hi> was given him as the Son of <hi>Mary,</hi> and he is <hi>Chriſt</hi> as anointed to his Office by the Holy Ghoſt. We do not ſay, that in either of theſe ſences Jeſus Chriſt is <hi>true</hi> God; but he is ſo, as he is the <hi>Son</hi> by eternal Generation, as he exiſted before his Incarnation, as he was <hi>with</hi> God, and was <hi>God</hi> in the <hi>beginning</hi> of Time, and conſequently from <hi>Eternity,</hi> the <hi>Alpha and Omega,</hi> the firſt and the laſt, <hi>Rev.</hi> 1.</p>
+               <p n="2">2 Note. <hi>2dly, Jeſus Chriſt,</hi> as Man and <hi>Mediator,</hi> may be diſtinguiſhed, though never <hi>divided,</hi> from the Eternal <hi>Son</hi> of God: So the Scripture ſpeaks of him here, as Jeſus Chriſt <hi>ſent</hi> by God, and as he in 1 <hi>Cor.</hi> 8, was that one great <hi>Lord</hi> of Chriſtians, diſtinguiſh'd from <hi>One</hi> God the <hi>Father;</hi> which ſufficiently ſolves the Difficulties which <hi>Socinians</hi> raiſe from theſe two Texts eſpecially con<g ref="char:EOLhyphen"/>ſidering, that ſo many other Scriptures unanſwerably prove the Deity of our Saviour.</p>
+               <p n="3">
+                  <pb n="4" facs="tcp:50080:6"/>3. It muſt be noted <hi>3dly,</hi> and conſeſs'd, that the <hi>Soci<g ref="char:EOLhyphen"/>nians</hi> diſtinguiſh betwixt the <hi>true</hi> God by, Nature, and a true God by <hi>Office,</hi> and that God the <hi>Father</hi> is the true God by <hi>Nature,</hi> and our Saviour a true God by <hi>Office.</hi>
+               </p>
+               <p>But the Text deſtroys the diſtinction; for if God the <hi>Father</hi> be the <hi>only</hi> true God, though ſo by Nature, there is no room left for <hi>another</hi> true God by <hi>Office,</hi> or any other way. Who ſees not the Term is <hi>excluſive,</hi> ſees no<g ref="char:EOLhyphen"/>thing</p>
+               <p>
+                  <hi>2dly,</hi> The Scripture is expreſs, that 'tis <hi>Idolatry</hi> to wor<g ref="char:EOLhyphen"/>ſhip thoſe that by <hi>Nature are no Gods;</hi> but 'tis no Idolatry to worſhip our Saviour, as <hi>Socinus</hi> himſelf deſends, there<g ref="char:EOLhyphen"/>fore our Saviour is <hi>true</hi> God by <hi>Nature.</hi>
+               </p>
+               <p>
+                  <hi>3dly</hi> I muſt challenge Proof either from <hi>Reaſon</hi> or <hi>Scripture</hi> that a God by <hi>Office</hi> only is, or ever was ſaid to be <hi>true God,</hi> as our Saviour is conſeſſed ot be. And ſee<g ref="char:EOLhyphen"/>ing the Text before us ſpeaks not of the <hi>Supreme,</hi> God, but of the <hi>only true</hi> God, and makes them all one, I muſt further challenge the great Diſtinction, and only Refuge of the <hi>Socinians</hi> in this Controverſie, namely, of the <hi>Su<g ref="char:EOLhyphen"/>preme</hi> God, and a <hi>true</hi> God, and if neither Scripture aſſerts it, nor <hi>Reaſon</hi> owns it, as certainly they do not, the Foun<g ref="char:EOLhyphen"/>dation of <hi>Socinianiſm</hi> is evidently ſubverted.</p>
+            </div>
+            <div n="3" type="argument">
+               <head>III. <hi>Cheiſt made the World.</hi>
+               </head>
+               <p>The words were made by the <hi>Supreme</hi> God only: This the <hi>Socinians</hi> generally aſſert, and ſtrenuouſly prove: but the <hi>Son</hi> of God made the Worlds; and this the <hi>Arri<g ref="char:EOLhyphen"/>ans</hi> unanimouſly maintain, as and unndoubted Truth, accor<g ref="char:EOLhyphen"/>din to the Scriptures. From theſe two Propoſitions, ſo acknowledg'd and proved by our <hi>Adverſaries,</hi> what Con<g ref="char:EOLhyphen"/>cluſion can be more natural than this, That the <hi>Son</hi> of
+<pb n="5" facs="tcp:50080:6"/> God is <hi>one</hi> God with the <hi>Father, i. e.</hi> the Supreme God?</p>
+               <p>'Tis confeſs'd, that the <hi>Arrians</hi> ſay, that God <hi>firſt</hi> made his Son, and then by him made the Worlds.</p>
+               <p>
+                  <hi>Sol.</hi> But who told them ſo? So fundamental a Point ſhould have ſome ground either in <hi>Scripture</hi> or <hi>Reaſon;</hi> the Scripture is ſilent in it, and plain Reaſon abhors it. Why ſhould the great and wiſe God make one <hi>Creature</hi> to make the reſt? Was not his own <hi>Fiat</hi> ſufficient to make an hundred Worlds? Doth any Cauſe elſe appear at the <hi>Creation?</hi> Let the <hi>Arrians</hi> prove, (as they do unanſwerably) that the <hi>Son</hi> of God did exiſt at the Crea<g ref="char:EOLhyphen"/>tion of the World, and the <hi>Socinians</hi> will acknowledge his Eternal Generation: By their Reaſons put together; the Orthodox Truth is eſtabliſh'd.</p>
+               <p>Indeed, if all things were made by the Son of <hi>God,</hi> him<g ref="char:EOLhyphen"/>ſelf is excluded, he is not <hi>Deus factus,</hi> but <hi>Deus natus;</hi> and if he did exiſt in the Beginning, as before, he muſt exiſt from Eternity: Nothing was behind the <hi>beginning</hi> of Time but <hi>Eternity.</hi>
+               </p>
+            </div>
+            <div n="4" type="argument">
+               <head>IV. <hi>Chriſt Equal to his Father.</hi>
+               </head>
+               <p>He that is not only <hi>like,</hi> but <hi>equal</hi> to <hi>God</hi> in <hi>Power Know<g ref="char:EOLhyphen"/>ledge,</hi> and <hi>Wiſdom,</hi> muſt have the ſame <hi>Eſſence</hi> or Nature with <hi>God.</hi>
+               </p>
+               <p>But the <hi>Socinians</hi> generally aſſert, That Jeſus Chriſt is not only <hi>like,</hi> but <hi>equal</hi> to God, in Power, Wiſdom, and Knowledge; therefore by this Reaſon Jeſus Chriſt muſt have the ſame Eſſence or Nature with God. I know they will not grant the firſt Propoſition, but theſe men of Reaſon, methinks, ſhould nor deny it. They ſay indeed, that this equal Power, Knowledge, and Wiſdom is com<g ref="char:EOLhyphen"/>municated
+<pb n="6" facs="tcp:50080:7"/> by God to his Son; But muſt there not be a <hi>Capacity</hi> and Faculty equal to God's, to admit ſuch <hi>equal</hi> Power, <hi>&amp;c.</hi> and to exerciſe the ſame? And conſequent<g ref="char:EOLhyphen"/>ly the <hi>Eſſence</hi> of God muſt be communicated, which on<g ref="char:EOLhyphen"/>ly hath <hi>Capacity</hi> and Faculty to hold and exerciſe Power, Knowledge, and Wiſdom, truly divine, or <hi>equal</hi> to God's. Is it not more agreeable to the Apprehenſion of a Man, to conceive, that the <hi>Root</hi> of all Power, <hi>&amp;c. viz.</hi> the Divine Nature, is communicated to the Son of God, and with that all Power, <hi>&amp;c.</hi> is communicated? Can <hi>equal</hi> Power be in any Subject but God himſelf? Will there not then be two <hi>Omnipotents,</hi> and two <hi>Supremes?</hi> Who can underſtand the Myſtery, or dare defend it from ſence<g ref="char:EOLhyphen"/>leſs Contradiction?</p>
+               <p>
+                  <hi>Minor.</hi> But perhaps it may be doubted, whether the <hi>Socinians</hi> do allow or affirm, that Jeſus Chriſt hath <hi>Equal Power,</hi> Knowledge, and Wiſdom with God himſelf; which is the ſecond Propoſition in this Argument; I ſhall there<g ref="char:EOLhyphen"/>fore prove it by ſome pertinent Inſtances.</p>
+               <p>Chriſt was made in <hi>Empire and Supreme Power</hi> in all things, <hi>like</hi> to God, <hi>immo aequalem,</hi> yea, rather <hi>equal</hi> to him, ſaith one: And they generally acknowledge, that the <hi>Father</hi> hath communicated to Chriſt <hi>his own</hi> Divine Power and Divine Wiſdom. See <hi>Crell.</hi> in <hi>Ro. 1. 15. Rac. Cat. c. 1. ſect. 4. p. 47. Stegman,</hi> in <hi>Joh. 10. 32. Wolzogenius,</hi> in <hi>Mat. 4. Schect,</hi> in 1 <hi>Cor. 4<g ref="char:punc">▪</g> 5. Volkelius</hi> tells us, the Apoſtle, <hi>Phil.</hi> 3. 21. attributes to Chriſt that <hi>moſt effica<g ref="char:EOLhyphen"/>cious</hi> Power, whereby he is able to <hi>ſubdue all things to him<g ref="char:EOLhyphen"/>ſelf. Ver. Relig. 63. c.</hi> 34<g ref="char:punc">▪</g> and that, He that can ſubdue all things to himſelf <hi>omnia poteſt,</hi> i. e. <hi>eſt Deus omnipotens,</hi> or <hi>Almighty</hi> as he is expreſly called, <hi>Rev.</hi> 1. and there<g ref="char:EOLhyphen"/>fore true and ſupreme God, or <hi>one</hi> with his Father<g ref="char:punc">▪</g> in <hi>Power,</hi> and conſequently in <hi>Nature;</hi> as our Saviour him<g ref="char:EOLhyphen"/>ſelf concludes, <hi>I and my Father are One.</hi> Not in Will and
+<pb n="7" facs="tcp:50080:7"/> Conſent only, as they would gloſs it, directly contrary to the Context, but in <hi>Power,</hi> which is inſeparable from his <hi>Eſſence: None ſhall pluck them out my Hand, or</hi>
+                  <note place="margin">John 10. 28, 29, 30.</note> 
+                  <hi>my Fathers; I and my Father are one.</hi> Accor<g ref="char:EOLhyphen"/>dingly <hi>Wolzogenius</hi> acknowledgeth, that God made Chriſt in Authority, <hi>Power</hi> and <hi>Wiſdom,</hi> like and equal to himſelf, that he, even equally as <hi>God,</hi> might be <hi>omnipreſent,</hi> and be able to do what he will, by his <hi>own Power</hi> and Spirit upon Earth: So that he is <hi>omnipotent, omniſcient,</hi> and <hi>omnipreſent,</hi> equally with God the <hi>Father;</hi> which neceſſarily infers the Communication of the Divine <hi>Eſſence</hi> or Nature, as the Subject or Seat of ſuch Supreme and Divine <hi>Attributes</hi> or Qualifications.</p>
+               <p>'Tis confeſſed, that <hi>Wolzog.</hi> in <hi>Mat.</hi> 28. 20. adds, That though Chriſt be <hi>omnipreſent,</hi> as is ſaid before, 'tis not ne<g ref="char:EOLhyphen"/>ceſſary that we ſhould underſtand it of his <hi>Eſſential</hi> Pre<g ref="char:EOLhyphen"/>ſence. But we want a new <hi>Philoſophy</hi> to prove that any thing, yea, <hi>God</hi> himſelf, can act <hi>phyſically,</hi> where he is not <hi>eſſentially</hi> preſent; and hence we have a new Argument of our Saviour's <hi>Deity.</hi> He is eſſentially preſent every where, and therefore <hi>true</hi> God; he is eſſentially preſent every where, becauſe he can do what he pleaſeth every where.</p>
+               <p>I conclude this Argument with this note; That the <hi>So<g ref="char:EOLhyphen"/>cinians</hi> muſt daſh and break upon one or both of theſe two hard <hi>Rocks,</hi> that a <hi>meer man,</hi> who is circumſcribed, is eſſentially preſent every where<g ref="char:punc">▪</g> or really <hi>omnipreſent;</hi> or, that a meer Man is able to do what he pleaſes by his <hi>own</hi> Power, as <hi>Wolzeg.</hi> affirms, (tho' communicated) where he is not <hi>eſſentially,</hi> that is, really preſent; which is one of the Phyloſophical Myſteries of Socinianiſm.</p>
+            </div>
+            <div n="5" type="argument">
+               <pb n="8" facs="tcp:50080:8"/>
+               <head>V. <hi>Chriſt hath the Father's Glory.</hi>
+               </head>
+               <p>He to whom the <hi>Father</hi> hath given his <hi>own Glory,</hi> is the <hi>ſame</hi> God in Eſſence with the <hi>Father;</hi> for God the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> proteſts <hi>he will not give his Glory to another.</hi> But the Father hath given his own Glory to Chriſt; this the <hi>So<g ref="char:EOLhyphen"/>cinians</hi> generally acknowledge: The Concluſion is neceſ<g ref="char:EOLhyphen"/>ſary, therefore Chriſt is the ſame in Eſſence with God the <hi>Father.</hi>
+               </p>
+               <p>They tell us in anſwer, that by [<hi>another</hi>] is meant, an <hi>Idol</hi> or a falſe God.</p>
+               <p>
+                  <hi>Sol.</hi> Where the Law doth not diſtinguiſh in a Point of ſo great concernment, who ſhall dare to do it? Beſides, is not an <hi>Idol</hi> a <hi>Creature,</hi> as well as they ſay our Saviour is? And why ſhould God give his Glory to one Creature rather than <hi>another?</hi> What Scripture or Reaſon will war<g ref="char:EOLhyphen"/>rant it? Is it not <hi>Idolatry,</hi> to give <hi>GOD's</hi> Glory to a <hi>Crea<g ref="char:EOLhyphen"/>ture?</hi> Or, will God diſpence with <hi>Idolatry</hi> in himſelf<g ref="char:punc">▪</g> and not in us? Or, laſtly, how can we in reaſon imagine, that God will fruſtrate his own <hi>ultimate</hi> End (to <hi>glorifie</hi> himſelf above all) by giving his <hi>own</hi> Glory to any <hi>Crea<g ref="char:EOLhyphen"/>ture?</hi>
+               </p>
+            </div>
+            <div n="6" type="argument">
+               <head>VI. <hi>Reaſon is Truth.</hi>
+               </head>
+               <p>That which is moſt agreeable to <hi>Reaſon</hi> is the <hi>Truth:</hi> This is the admired Maxim<g ref="char:punc">▪</g> of the <hi>Socinians.</hi> But that the <hi>Father</hi> communicateth his Divine <hi>Nature</hi> with his Divine <hi>Attributes</hi> to his <hi>Son,</hi> is more agreeable to Reaſon, <hi>i. e.</hi> more conceivable, than that he ſhould communicate them <hi>ſeparately<g ref="char:punc">▪</g>
+                  </hi> without or divided from his Nature.</p>
+               <p>Let us reflect upon their former Aſſertions, that the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> hath communicated his <hi>own</hi> Wiſdom, his <hi>own</hi> Power, his own <hi>Honour,</hi> his own <hi>Glory,</hi> and thereby made his Son
+<pb n="9" facs="tcp:50080:8"/> not only like, but equal to himſelf; and let the Maſters of Reaſon tell us any thing more <hi>abſurd</hi> and inconſonant to Reaſon, than to conceive ſuch Qualities, which are ac<g ref="char:EOLhyphen"/>knowledged by themſelves to be truly and properly Di<g ref="char:EOLhyphen"/>vined, to be <hi>actually</hi> ſeparated from the Divine Subſtance: ſeeing they alſo acknowledge, that <hi>there is nothing in God that is not God himſelf;</hi> and his <hi>Proprieties</hi> can only <hi>ratione &amp; inadaequato conceptu,</hi> be diſtinguiſht from his <hi>Eſſence.</hi> Is it not more agreeable to <hi>Reaſon,</hi> to conceive, that ſeeing the <hi>Father</hi> hath communicated his own Wiſdom, <hi>&amp;c.</hi> to his Son, he hath alſo communicated his own Nature to him, foraſmuch as we cannot conceive how they<g ref="char:punc">▪</g> ſhould be <hi>actually divided,</hi> for his <hi>Attributes</hi> and <hi>Nature</hi> are <hi>really one,</hi> and God's own Wiſdom, Knowledge, Power, Preſence and Glory, are nothing really but himſelf.</p>
+               <p>Thus it is, if we conſider the nature of God, but more groſly abſurd and <hi>unreaſonable</hi> it appears, if we conſider the nature of <hi>Man;</hi> which they would make the Subject of theſe Divine Qualities.</p>
+               <p>How monſtrous is it to imagine, that a <hi>meer Man,</hi> as they ſay our Saviour is, ſhould be wiſe as <hi>God<g ref="char:punc">▪</g>
+                  </hi> powerful as God, omnipreſent as God, have <hi>equal</hi> Worſhip, and the <hi>ſame</hi> Glory with God himſelf, and be a <hi>meer Man</hi> ſtill! where is the Capacity, the Powers, the Seat of theſe Divine Excellencies of a true God, as they acknowledge our Savi<g ref="char:EOLhyphen"/>our to be, in <hi>meer Man,</hi> as they ſay he is? Activity be<g ref="char:EOLhyphen"/>yond the proper Sphere of the Agent, Qualities and En<g ref="char:EOLhyphen"/>dowments without a capable Subject, are as fit for men of Reach and Reaſon to conceive, as to imagine Reaſon and Religion in a <hi>Brute,</hi> with all the Attributes of the <hi>Humane</hi> Nature, and yet to be a <hi>Brute ſtill.</hi>
+               </p>
+               <p>Let them follow <hi>Reaſon</hi> but one ſtep farther, and acknow<g ref="char:EOLhyphen"/>ledg, that what the <hi>Father</hi> communicateth to his <hi>Son</hi> car<g ref="char:EOLhyphen"/>ries the <hi>Eſſence</hi> of God with it, according to <hi>Reaſon,</hi> as well as the <hi>Scripture;</hi> and we are agreed in a great Point.</p>
+               <pb n="10" facs="tcp:50080:9"/>
+               <p>And now, what ſhould put a ſtop to them, ſeeing their Principles bring them ſo near us, and ſo much Reaſon in<g ref="char:EOLhyphen"/>vites them home? They acknowledge the neceſſity of believing Chriſt to be <hi>true God,</hi> according to the Scri<g ref="char:EOLhyphen"/>ptures. They ſay, he is <hi>equal</hi> to God the <hi>Father;</hi> and <hi>Socinus</hi> is angry that it ſhould be doubted, whether they believed ſo, or not<g ref="char:punc">▪</g> his words are remarkable.</p>
+               <p>
+                  <hi>Falſiſſimum eſt, &amp;c.</hi> He ſaith, It is moſt falſe, that we do not affirm Chriſt to be <hi>true God,</hi> yea, we profeſs the con<g ref="char:EOLhyphen"/>trary publickly, and in our own, both in the <hi>Latin</hi> and <hi>Polonian</hi> Tongue, in not a few publick Writings: And again, as if we did deny Jeſus Chriſt, tho' he <hi>is Man,</hi> yet to be <hi>God.</hi> and <hi>equal</hi> to God, or the proper Son of God, and equal to his <hi>Father.</hi> According to <hi>Smalcius,</hi> our God, and the <hi>true</hi> God, <hi>ſummo jure,</hi> he is ſo to be called, and is ſo <hi>in<g ref="char:EOLhyphen"/>deed.</hi> They do generally own his Title <hi>Ro. 9. God over all, bleſſed for ever. Schlectingius,</hi> in <hi>Joh.</hi> 4. 23. ſaith, We muſt underſtand by it, that Chriſt is <hi>Lord</hi> and <hi>God,</hi> not over <hi>ſome</hi> things only, but <hi>over all;</hi> God and Lord of <hi>Heaven</hi> and <hi>Earth,</hi> as <hi>Stigmannus</hi> adds, in <hi>Joh.</hi> 10. 33. I confeſs <hi>Schlect.</hi> his gloſs hereupon is, He is <hi>true God,</hi> as <hi>true</hi> is oppoſed to <hi>falſe,</hi> not as it is oppoſed to <hi>non ſummo,</hi> or the Supreme God; but if the Text be well conſider'd, and its proper ſence allow'd, I ſee not how he can be better ſigni<g ref="char:EOLhyphen"/>fied to be the <hi>God of Iſrael,</hi> than by the <hi>uſual</hi> appellation of the God of <hi>Iſrael,</hi> as the Learned note, <hi>God bleſſed for ever;</hi> or how the Supreme God can in other words be more fitly expreſt, than by theſe words, <hi>God over all bleſſed for ever;</hi> eſpecially ſeeing, as we have noted before, that there is no ground, either in <hi>Reaſon</hi> or <hi>Religion,</hi> for the diſtinction of the <hi>chief</hi> or ſupreme God, and a <hi>true</hi> God,</p>
+               <p>Theſe Advances ſeriouſly weigh'd, methinks, while we grant and acknowledge the <hi>ſubordination</hi> of the Son to the Father, as his <hi>Original</hi> and Beginning<g ref="char:punc">▪</g> with the unanimous Conſent of the <hi>Ancients,</hi> as Dr. <hi>Bull</hi> and Biſhop <hi>Pearſon</hi>
+                  <pb n="11" facs="tcp:50080:9"/> have obſerved, and that the Divine Perfections of the <hi>Father</hi> and the Son, are in the <hi>Son</hi> not <hi>co-ordinately</hi> but <hi>ſubordi<g ref="char:EOLhyphen"/>nately,</hi> and communicated to him from the <hi>Father;</hi> and in that ſence the <hi>Father</hi> may be ſaid to be <hi>greater than the Son,</hi> in that he is the <hi>Origo</hi> and <hi>Principal.</hi> Methinks, I ſay, they ſhould ſee reaſon enough to meet us, and acknowledge the <hi>Son,</hi> with the <hi>Nicene</hi> Fathers and the Catholick <hi>Church,</hi> to be <hi>God of God, Light of Light, very God of very God.</hi>
+               </p>
+               <p>I ſhall conclude this Argument with the pertinent and forcible Reaſoning of Dr. <hi>B.</hi> in his Second Edition.</p>
+               <p>If we conſider, ſaith he, the thing it ſelf, it appeareth much more <hi>credible,</hi> that the Eternal Son of God <hi>ſhould de<g ref="char:EOLhyphen"/>ſcend to the nature of Man,</hi> than that a <hi>Man</hi> ſhould be made <hi>God,</hi> endued with a new <hi>Omnipreſence</hi> to hear, and <hi>Omnipotence,</hi> to grant the Prayers of all the Supplicants, that in all places of the World ſhould invoke him. Again, ſaith he, if we regard the <hi>Dignity of his Perſon,</hi> it is plainly more <hi>Honourable,</hi> to believe him <hi>God</hi> the <hi>Creator,</hi> than a <hi>Creature Deified:</hi> If we conſider the Fruits, our <hi>Thankfulneſs</hi> muſt be greater, <hi>&amp;c.</hi> So that, upon all accounts, were the <hi>Scri<g ref="char:EOLhyphen"/>ptures doubtful,</hi> we ought rather to <hi>carry our Byaſs towards our Lord's Eternal Divinity,</hi> than againſt it.</p>
+            </div>
+            <div n="7" type="argument">
+               <head>VII. Authority, <hi>the</hi> Ground <hi>of Faith.</hi>
+               </head>
+               <p>That Belief, which hath no Authority, but is againſt all Authority <hi>competent</hi> in that Caſe, ought not only to be ſuſpected, but to be rejected, as <hi>groundleſs</hi> and <hi>falſe.</hi> This is not to be queſtioned, for ſeeing Authority is the only Reaſon and <hi>Ground</hi> of Faith, that Belief that hath no com<g ref="char:EOLhyphen"/>petent Authority, is <hi>groundleſs;</hi> and that which is againſt ſuch Authority, muſt needs be <hi>falſe:</hi> But the <hi>Socinian</hi> Be<g ref="char:EOLhyphen"/>lief, that the <hi>Son</hi> of God had <hi>no Exiſtence</hi> or Being before he was conceiv'd, and born of the Virgin <hi>Mary,</hi> hath no Authority, and is againſt all Authority <hi>competent</hi> in that
+<pb n="12" facs="tcp:50080:10"/> Caſe; therefore ſuch Belief is <hi>groundleſs</hi> and <hi>falſe.</hi>
+               </p>
+               <p>Now, that ſuch Belief, that our Saviour had no Being before he was conceived and born of the Virgin <hi>Mary,</hi> is without and againſt all competent Authority in the Caſe, will eaſily appear, by conſidering what is <hi>ſuch Authority,</hi> and the <hi>Socinian</hi> Conceſſions about it, and the Evidence of the thing<g ref="char:punc">▪</g> itſelf.</p>
+               <p>1. What can be ſuppoſed <hi>competent</hi> Authority to ground the Chriſtian Faith upon, but the Holy Scriptures, as they are in themſelves, or as they are expounded and under<g ref="char:EOLhyphen"/>ſtood by the <hi>Primitive Fathers, Eccleſiaſtical Councils,</hi> or the <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Church.</hi>
+               </p>
+               <p>2. Now, that the ſaid Belief of <hi>Socinus</hi> and his Follow<g ref="char:EOLhyphen"/>ers is without and againſt all this Authority, 'tis not my province to argue here, (which hath been done an hun<g ref="char:EOLhyphen"/>dred times invincibly by others) only from the <hi>Socinians</hi> own Conceſſions, and the Evidence of the <hi>thing</hi> itſelf.</p>
+               <p>1. For the <hi>Holy Scriptures,</hi> as they are in <hi>themſelves,</hi> tho' the <hi>Socinians</hi> make great Pretences that they are of their ſide, yet 'tis plain, they dare not truſt to them; yea, by two Obſervations 'tis very apparent, that they more than ſuſpect they are againſt them.</p>
+               <p>The firſt <hi>Obſervation</hi> is, That they pre-judge, and in<g ref="char:EOLhyphen"/>deed enervate all the Authority of the <hi>Holy Scripture,</hi> by their bold and dear Propoſition, which they reſolve ſhall ſerve them as an <hi>Aſylum</hi> and <hi>Refuge;</hi> where they cannot otherwiſe eſcape the Light and Force of the Text. The <hi>Propoſition</hi> I mean is to this purpoſe; That tho' the <hi>Holy Scripture</hi> ſpeak a thing never ſo plainly, <hi>i. e.</hi> that the <hi>true</hi> and proper <hi>ſence</hi> cannot be evaded, yet if the <hi>Matter</hi> there<g ref="char:EOLhyphen"/>of be contrary to their Sentiments, or cannot be appre<g ref="char:EOLhyphen"/>hended by them, they are not bound to believe it, but their own <hi>Reaſon.</hi> To this purpoſe it is generally obſer<g ref="char:EOLhyphen"/>ved, that <hi>Socinus</hi> and his Followers (as particularly a late <hi>Socinian</hi> Pamphlet boldly conſents) declare themſelves;
+<pb n="13" facs="tcp:50080:10"/> which, if they were not jealous, at leaſt, that the <hi>Scripture</hi> is plain againſt ſome of their Opinions, ſuch cunning Gameſters would not affirm, to ſo great Reproach of their Profeſſion, and Scandal of the <hi>Chriſtian Religion.</hi>
+               </p>
+               <p>My other Obſervation is, their playing and triſling with the <hi>Holy Scripture,</hi> their ſtraining their Wits, and wrack<g ref="char:EOLhyphen"/>ing their Fancies (of which 'tis confeſs'd they have good ſtore) to coin new and unheard-of Gloſſes for the wreſt<g ref="char:EOLhyphen"/>ing and bending of the <hi>Text</hi> to their new Hypotheſis, ſo ſtrange to the plain Letter and <hi>Sence</hi> of the <hi>Text,</hi> ſo imper<g ref="char:EOLhyphen"/>tinent to the <hi>Context,</hi> ſo contrary to all ancient and other modern Expoſitions, that we cannot have ſo much Cha<g ref="char:EOLhyphen"/>rity for them, as to think they believe themſelves, or have any Veneration or Reſpect to <hi>Divine Revelation.</hi> Not here to diſpute the Particulars, or to enumerate all their fineneſſes of Criticiſm, Wit, and Fancy, I ſhall only remark ſome Inſtances that carry a Confutation in their Foreheads.</p>
+               <p>When they tell us, That (in <hi>Joh. 1.) in the Beginning</hi> is not in the Beginning of the <hi>World,</hi> but of the <hi>Goſpel:</hi> When they interpret, the <hi>Word was made Fleſh,</hi> it was ſo, in the Infirmities, <hi>i. e. Qualities</hi> of the Fleſh, not in the <hi>Subſtance.</hi> When in the words following he is ſaid to dwell <hi>among us,</hi> they ſay, it was after his Reſurrection. When upon the Text [<hi>Before</hi> Abraham <hi>was, I am</hi>] they comment thus; Before the <hi>Gentiles</hi> were actually <hi>called,</hi> and became <hi>Abraham</hi>'s Children. When they obſerve, that the words of St. <hi>Thomas, My Lord and my God,</hi> were ſpo<g ref="char:EOLhyphen"/>ken by way of admiration to God the <hi>Father,</hi> and not to our Saviour; when by <hi>Thrones,</hi> Principalities in Heaven, they would have us underſtand Men on Earth, tho' the Text ſaith they are <hi>Inviſible, Col.</hi> 1. 16. When it is ſo frequently and plainly written, That <hi>the Son of God made the Worlds,</hi> and that all things are upheld and ſubſiſt by him, they will have it meant, only of Regeneration, or the
+<pb n="14" facs="tcp:50080:11"/> 
+                  <hi>new Creation.</hi> When our Saviour affirms, <hi>I and my Father are one,</hi> they ſay, he meant ſo only in <hi>Will</hi> and <hi>Conſent;</hi> contrary directly to the ſcope and ſence of the Context, which ſpeaks of their <hi>Power</hi> to keep his Diſciples from Violence: When upon that famous Scripture, <hi>In him dwells all the fulneſs of the Scripture bodily,</hi> they reſtrain it to his Doctrine, and exclude his Perſon: When by the <hi>Myſtery of Godlineſs God manifeſted in the Fleſh,</hi> upon a Criticiſm, they will have it, the Goſpel manifeſted in the Fleſh; which makes brave ſence, eſpecially if you conſider the words following. And laſtly, to crown all, when <hi>Socinus</hi> was puzzled with the frequent and plain Aſſertions that our Saviour <hi>came down from Heaven,</hi> into the World, he becomes <hi>Enthuſiaſt,</hi> and dreams of a Revelation he had, That Chriſt, after his Incarnation, was taken up into Heaven, to learn his <hi>Father</hi>'s Will. When, I ſay, we re<g ref="char:EOLhyphen"/>volve and weigh theſe and ſuch-like wild and unreaſona<g ref="char:EOLhyphen"/>ble, unaccountable Figments of theirs, to avoid Scripture Arguments, we cannot imagine, either that the Scripture ſhould favour them, or they the Scriptures; or, in plain Engliſh, that they allow the Holy Scriptures to be the <hi>Rule.</hi> or Foundation of their Faith.</p>
+               <p>
+                  <hi>2ly,</hi> As their Belief, that our Saviour had not a <hi>Being</hi> before his Incarnation, is without and againſt the Autho<g ref="char:EOLhyphen"/>rity of the Scriptures, ſo they confeſs, and ſeem to glo<g ref="char:EOLhyphen"/>ry, that all the Ancient Fathers (tho' ſome of them were contemporary with the <hi>Apoſtles</hi>) and Councils were againſt them in this great and fundamental Point. Ac<g ref="char:EOLhyphen"/>cordingly <hi>Socinus</hi> enters his Proteſtation againſt them all, <hi>The heap of Authorities and Teſtimonies out of the</hi> Fathers <hi>and</hi> Councils, <hi>have no force, eſpecially againſt us, that are not diffident to diſſent from them,</hi> 5 Tom. 2 Reſp. <hi>ad</hi> 2 C. <hi>Wick.</hi> p. 618.</p>
+               <p>
+                  <hi>3ly,</hi> As for the <hi>Catholick Church,</hi> it in no Age, in the Times of, or ſince the <hi>Apoſtles,</hi> ever received this Opinion
+<pb n="15" facs="tcp:50080:11"/>
+[That our Saviour did not exiſt before he was born of the Virgin <hi>Mary</hi>] but hath in all Ages rejected and exploded it, as the Madneſs of Hereſie.</p>
+               <p>For <hi>Fifteen Hundred</hi> Years together the <hi>Catholick</hi> Church ſtood quiet in the poſſeſſion of the contrary Truth. Indeed, the <hi>Arrians</hi> vex'd Her a conſiderable time, about the <hi>Eternal Generation,</hi> and <hi>Conſubſtantiality</hi> of the <hi>Son</hi> with the Father; but at laſt, the truth of thoſe Points, by diligent ſearch into the Holy Scriptures; was ſo well ſet<g ref="char:EOLhyphen"/>tled by <hi>Fathers</hi> and <hi>Councils,</hi> that the Church continued quiet and free from thoſe <hi>Arrian</hi> Diſputes, for Twelve or Thirteen Hundred years together.</p>
+               <p>But what was this to our upſtart Socinianiſm? The <hi>Ar<g ref="char:EOLhyphen"/>rians</hi> never dreamt of this Conceit; they believed, that the Son of God was made a God before, and was the great God's Inſtrument in making the Worlds, joyn'd, as the Learned Biſhop <hi>Pearſon</hi> hath noted, with the <hi>Orthodox</hi> in Council, to paſs an Anathema againſt one or two that in that Age vented that Point, [That our <hi>Saviour</hi> had no Being before he was born of the Virgin] and it being ſo early knock'd in the Head, we never read it took Life or ſtirred again (except one <hi>Abelardus</hi> hit upon it) before <hi>Servetus</hi>'s Time.</p>
+               <p>Whence ſhould this new Light ſpring in <hi>Polonia</hi> ſo late, to the diſturbance of the Church, the reproach of the Fa<g ref="char:EOLhyphen"/>thers and Councils, and the weakening or nulling the Authority of the Holy Scriptures? Who can chuſe but reflect hence upon the Preſumption, Pride, Confidence and Impudence of this Novel-Attempt to ridicule the Chriſtian Faith, and to ſubvert the Foundation of the Chri<g ref="char:EOLhyphen"/>ſtian Religion? If we have any deferrence to the Word of God, to the Primitive Fathers, and the whole Church, we muſt conclude Socinianiſm is intolerable.</p>
+               <p>Indeed, two Arguments render it hardly Chriſtian; 1. That they are gone out of the <hi>Catholick</hi> or <hi>Chriſtian Church,</hi>
+                  <pb n="16" facs="tcp:50080:12"/> which is founded in the <hi>Trinity,</hi> both for her <hi>Faith</hi> and <hi>Worſhip.</hi> 2. That it makes <hi>another</hi> Foundation for her Faith, <hi>viz.</hi> her own corrupted Reaſon, beſides and con<g ref="char:EOLhyphen"/>trary to the only Doctrinal Foundation of the Chriſtian Religion, <hi>viz.</hi> the Holy <hi>Scriptures;</hi> as we noted before.</p>
+               <p>Have they Doubting, or ſomething like <hi>Faith</hi> in this Matter, why do they not follow the Apoſtle's Rule, and <hi>keep it to themſelves?</hi> They do not think that all are in a <hi>damnable</hi> ſtate that are not of their Opinions: Is there then no Regard to be had to <hi>Peace?</hi> I fear, neither their <hi>Cha<g ref="char:EOLhyphen"/>rity</hi> nor <hi>Prudence</hi> is better than their <hi>Faith.</hi> Why muſt the World feel that they are <hi>Firebrands</hi> as well as <hi>Here<g ref="char:EOLhyphen"/>ticks?</hi> If we may judge by their modern Writing, as they exceed their <hi>Fathers</hi> the <hi>Arrians</hi> in their Principles, ſo they ſucceed them in their Fierceneſs.</p>
+            </div>
+            <div n="8" type="argument">
+               <head>VIII. <hi>Faith intelligible.</hi>
+               </head>
+               <p>
+                  <hi>Obj.</hi> But I muſt not neglect the great Obſtacle. They ſay, they are againſt <hi>Myſteries</hi> and things unintelligible: God hath given us Faculties of Reaſon and Underſtan<g ref="char:EOLhyphen"/>dings, and by theſe only we conceive and <hi>judge</hi> of things to be believed; and God cannot expect we ſhould believe without Reaſon, or act beyond our proper Sphere, or be<g ref="char:EOLhyphen"/>lieve we know not what, or what we cannot conceive or apprehend.</p>
+               <p>
+                  <hi>Sol.</hi> I am not againſt <hi>Aquinas</hi>'s Deſcription of Faith, <hi>Fides eſt actus animae rationalis, quatenus rationalis;</hi> I know Reaſon is the <hi>Form</hi> of Man, and the very Principle of Hu<g ref="char:EOLhyphen"/>man Actions, as ſuch; and we muſt in ſome meaſure con<g ref="char:EOLhyphen"/>ceive and apprehend by our Reaſon, both <hi>what</hi> and <hi>why</hi> we believe: But tho' <hi>Ratio</hi> be <hi>Judex, Scriptura eſt Norma,</hi> and the <hi>Scripture,</hi> as the <hi>Rule</hi> of Faith, preſents us with due <hi>Objects</hi> to be apprehended by our Underſtanding, and with ſufficient reaſon from God's own Word <hi>why</hi> we ſhould believe them.</p>
+               <pb n="17" facs="tcp:50080:12"/>
+               <p>Hence let us take occaſion to enquire, what it is theſe Gentlemen mean when they ſay, they cannot conceive or apprehend the <hi>Objects</hi> of our Faith; Do they not under<g ref="char:EOLhyphen"/>ſtand the <hi>state</hi> of the Controverſie? Do they not know themſelves <hi>what</hi> we would have them, and what they re<g ref="char:EOLhyphen"/>fuſe to conſent to? Could any man more diſtinctly and plainly expreſs the <hi>Orthodox Faith</hi> about the Son of God than <hi>Socinus</hi> himſelf, to this purpoſe?</p>
+               <p>All the <hi>Fathers diſſent</hi> from them, (ſaith he) as they would have Chriſt exiſt of the <hi>Subſtance</hi> of his Father be<g ref="char:EOLhyphen"/>fore the World was made; and, That he often appeared to the <hi>Fathers</hi> under the Old Teſtament; yea, and the <hi>One God,</hi> his <hi>Father,</hi> made the World and all things by him; and whatever he would have us <hi>know,</hi> he hath <hi>re<g ref="char:EOLhyphen"/>vealed</hi> by him.</p>
+               <p>Now, did not <hi>Socinus</hi> underſtand and conceive what he wrote? Did he not then know <hi>what</hi> we believe? And is yet this great Object of our Faith an unconceivable Myſtery?</p>
+               <p>Again, the <hi>Rule</hi> of our Faith is as conceivable as the Matter of it. If the Text propoſe ſuch a thing to be be<g ref="char:EOLhyphen"/>lieved, theſe men of Apprehenſion are ſagacious enough to ſearch into the meaning of the <hi>Words,</hi> and the coherence with the <hi>Context,</hi> and to conceive the true Sence, and how to avoid it, as any men living. And thus alſo they may underſtand <hi>why</hi> we believe, as well as <hi>what.</hi>
+               </p>
+               <p>What's the matter then? Where lies the Myſtery? O they cannot apprehend <hi>how</hi> it ſhould be, that the Son of <hi>God</hi> ſhould be <hi>eternally</hi> begotten of, and <hi>One</hi> in Eſſence with the <hi>Father.</hi> And, what if they cannot? I think it's no great matter, as to their <hi>Salvation,</hi> whether they do or not; believe what is revealed, and leave the <hi>Myſtery</hi> ſome <hi>Objects of Faith</hi> here, are reſerved for Objects of <hi>Viſion</hi> hereafter. If we are to believe nothing but what we know of the <hi>manner</hi> of their Being or Working, we
+<pb n="18" facs="tcp:50080:13"/> muſt be Infidels in <hi>Nature,</hi> as well as in <hi>Religion.</hi>
+               </p>
+               <p>But to come a little cloſer to them, there are two un<g ref="char:EOLhyphen"/>conceivable Points, (they ſay, which cannot go down with them, the <hi>Trinity</hi> and the <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> of our Saviour, or his having the ſame Eſſence with the <hi>Father.</hi> I ſhall conſider both of them.</p>
+               <p>As for the <hi>Trinity,</hi> what is there in it that they cannot conceive, either as to the <hi>Object,</hi> or the <hi>Rule</hi> of our Faith about it?</p>
+               <p>Cannot they conceive what the Scripture reveals, That there is the <hi>Father,</hi> the <hi>Son,</hi> and the <hi>Holy Ghoſt;</hi> that theſe are <hi>Three;</hi> and that the Father is the <hi>God</hi> of Chri<g ref="char:EOLhyphen"/>ſtians, the <hi>Son</hi> is the <hi>God</hi> of Chriſtians, and the <hi>Holy Ghoſt</hi> is the <hi>God</hi> of Chriſtians? Certainly the <hi>Socinians,</hi> as well as the <hi>Arrians,</hi> may apprehend the matter ſo far. And further, That they are all <hi>True</hi> God; for we are not ba<g ref="char:EOLhyphen"/>ptized in the Name, to the worſhip of any <hi>falſe</hi> God. And laſtly, That, as the Apoſtle ſaith, <hi>To us</hi> (Chriſtians) <hi>there is but one</hi> (true) <hi>God.</hi>
+               </p>
+               <p>Yes, all this they can apprehend as 'tis revealed, but they know not how to underſtand <hi>three in one,</hi> and <hi>one in three:</hi> Here I cannot give them better Advice, than not to <hi>lean to their own <g ref="char:V">Ʋ</g>nderſtandings,</hi> but to believe the <hi>Revelation,</hi> and with Modeſty and Humllity to adore the <hi>Myſtery, Quomodo Pater genuit Filium, nolo diſcutias.</hi> St. Hierom.</p>
+               <p>Yet I muſt remark, that the <hi>Myſtery,</hi> as to the <hi>Matter</hi> of it, was conceivable, and upon a plain <hi>Text</hi> (not then diſputed) <hi>believed</hi> too, before the Council of <hi>Nice;</hi> and though I know ſuch Authorities weigh little with our <hi>Ad<g ref="char:EOLhyphen"/>verſaries,</hi> and Dr. <hi>Bull</hi> and Dr. <hi>Whitby</hi> might have ſpared their Excellent Pains in evincing ſuch Authorities, ſeeing they proteſt againſt them, (I mean, as to them) yet I have ſome reaſon to mention <hi>Two</hi> of them.</p>
+               <pb n="19" facs="tcp:50080:13"/>
+               <p>The firſt is that of <hi>Tertullian, Ex Conſcientia ſcimus, &amp;c.</hi> Of Conſcience we know, that the Name of <hi>God,</hi> and <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> and <hi>Son,</hi> and <hi>Spirit</hi> do agree, ſo as the Connexion of the <hi>Father</hi> in the <hi>Son,</hi> and of the <hi>Son</hi> in the <hi>Paraclete,</hi> makes Three cohering, <hi>alterum ex altero,</hi> which <hi>Three are One; <g ref="char:V">Ʋ</g>num non unus,</hi> as it is ſaid, <hi>I and my Father are One</hi> for Unity of Subſtance, not for Singularity of Number, <hi>De anima, c.</hi> 14.</p>
+               <p>The other is St. <hi>Cyprian, De <g ref="char:V">Ʋ</g>nitate, &amp;c.</hi> The Lord ſaid, <hi>I and my Father are One.</hi> And again; Of God the <hi>Father,</hi> the <hi>Son,</hi> and the <hi>Holy Spirit,</hi> it's written, <hi>And theſe Three are One; Hanc unitatem,</hi> Thoſe that hold not this Unity, hold not the Truth to Salvation.</p>
+               <p>Theſe I have noted to ſhame the Scoffer, that ſhall ſay, We had but <hi>two Gods</hi> before the Council of <hi>Nice;</hi> as well as to ſhew, that wiſe and good men, of old, under<g ref="char:EOLhyphen"/>ſtood the <hi>Object</hi> and <hi>Rule</hi> of our Chriſtian Faith in this great Article, and what was then thought of the Op<g ref="char:EOLhyphen"/>pugners of it.</p>
+               <p>
+                  <hi>Obj.</hi> So much for the <hi>Trinity;</hi> but the Eternity of the <hi>Son</hi> of God, and his <hi>Co-eſſentiality</hi> with the <hi>Father,</hi> they ſay, is unintelligible.</p>
+               <p>But, can they conceive how God ſhould be a <hi>Father</hi> from Eternity without a <hi>Son?</hi> Can they not conceive that which their Brethren the <hi>Arrians</hi> believed, according to abundance of <hi>Scriptures,</hi> that our Saviour did exiſt be<g ref="char:EOLhyphen"/>fore his <hi>Incarnation?</hi> And then, that being ſuppoſed, their own Reaſon aſſures them, that He muſt, from <hi>Eternity;</hi> as before was obſerved. Can they not conceive, that if <hi>all</hi> things were made by him, and without him <hi>nothing was made, that was made,</hi> that he <hi>exiſted</hi> before any thing was made, and therefore was a God <hi>born,</hi> and <hi>not made?</hi> Can they not apprehend, that ſeeing <hi>whatſoever is in God is God,</hi> and therefore the <hi>Wiſdom</hi> and <hi>Power</hi> in God is the
+<pb n="20" facs="tcp:50080:14"/> 
+                  <hi>Divine Nature,</hi> and that if God communicate his own <hi>Wiſdom, &amp;c.</hi> to his Son, he communicates with it his Di<g ref="char:EOLhyphen"/>vine Nature? Can they conceive, that God was ever with<g ref="char:EOLhyphen"/>out his Wiſdom? Can they not conceive, that <hi>Thought</hi> is the proper iſſue of a Mind, and that God's Mind is <hi>eter<g ref="char:EOLhyphen"/>nal,</hi> and <hi>Thought</hi> or Wiſdom, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or the Son of God, are eternally begotten of him?</p>
+               <p>Have theſe men peculiar and diſtinct Faculties from all Mankind? The <hi>World</hi> is divided into <hi>Jews, Turks, In<g ref="char:EOLhyphen"/>fidels, Hereticks,</hi> and the <hi>Church</hi> of God.</p>
+               <p n="1">1. As to our <hi>Saviour</hi>'s Eternal Divinity, the Appre<g ref="char:EOLhyphen"/>henſion and Faith of the <hi>Church</hi> of God is ſufficiently ma<g ref="char:EOLhyphen"/>nifeſt, for <hi>Fifteen hundred</hi> years after our Saviour, before <hi>Socinianiſm</hi> was formed. And 'tis well obſerved, that thoſe ſuperſine Colours that <hi>Socinus</hi> and his Followers put upon thoſe <hi>Texts,</hi> by which the Catholick Church ever defended the Eternal Divinity of our Saviour, were at leaſt moſt of them never thought on by the Ancient Hereticks, and never heard of before <hi>Socinus</hi>'s time.</p>
+               <p n="2">2. The <hi>Jewiſh</hi> Doctors hold, that the <hi>Meſſias</hi> is the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that <hi>Jehovah</hi> is a Name given to him, that he is the <hi>Eter<g ref="char:EOLhyphen"/>nal Character</hi> of God; therefore the Eternal Divinity of our Saviour was no inconceivable <hi>Myſtery</hi> to them.</p>
+               <p n="3">3. As for the wiſer <hi>Heathen</hi> Philoſophers, they ſpeak a great deal plainer, tho' it is fairly ſuppoſed they had their Light from the <hi>Jews.</hi> The Indefatigable and Lear<g ref="char:EOLhyphen"/>ned Dr. <hi>Whitby,</hi> after the famous Dr. <hi>Cudworth,</hi> hath gi<g ref="char:EOLhyphen"/>ven us a great deal to this purpoſe, and obſerves (what <hi>Socinus</hi> himſelf inſinuates, when he tells us we have our Doctrine out of <hi>Plato</hi>'s School) That the words of St. <hi>John, c.</hi> 1. taken in their familiar and proper ſence, do exactly agree with the Sayings of the <hi>Platoniſts</hi> and <hi>Pythagoreans,</hi> and other Philoſophers, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, about the <hi>Word.</hi>
+               </p>
+               <p n="1">
+                  <pb n="21" facs="tcp:50080:14"/>1. The <hi>Philoſophers</hi> acknowledge a <hi>Second Hypoſtaſis,</hi> which they call <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the Mind, Word, and Son of the Firſt.</p>
+               <p n="2">2. That this <hi>Second Hypoſtaſis</hi> did exiſt from <hi>Eternity,</hi> and declared him to be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the Sempiternal Word, <hi>Mens temporis expers, &amp; ſempiterna.</hi>
+               </p>
+               <p n="3">3. They pronounced this <hi>Word</hi> to be a <hi>Second God,</hi> to denote his dependance upon the <hi>Firſt.</hi>
+               </p>
+               <p n="4">4. They aſſerted him to be the <hi>Cauſe, Principal,</hi> and <hi>Maker</hi> of all things; ſuch Conceits had theſe great Philo<g ref="char:EOLhyphen"/>ſophers, who, we may imagine, were Maſters of as much <hi>Reaſon</hi> as the men we deal with.</p>
+               <p>Thus our Faith in our <hi>Saviour</hi>'s Divinity was not ab<g ref="char:EOLhyphen"/>horrent from the <hi>Reaſon</hi> of the learned <hi>Jews</hi> and wiſeſt <hi>Philoſophers.</hi>
+               </p>
+               <p>3. What Apprehenſion hath the <hi>Mahumetan</hi> part of the World in this myſterious Article? Indeed, I was much taken with ſome Paſſages in <hi>The Turkiſh Spy,</hi> when I firſt ſaw his Letters, which I ſhall tranſcribe out of his <hi>31st</hi> Letter of Vol. 2. to the <hi>Mufti:</hi> 'Tell me, ſaith he, why it is <hi>Blaſphemy</hi> to ſay, that <hi>God</hi> hath already taken <hi>Fleſh,</hi> ſince our holy <hi>Prophet</hi> avoucheth, that GOD ſhall aſſume a <hi>Body</hi> at the <hi>Reſurrection.</hi> If a <hi>Body</hi> be competible with the <hi>Divine Eſſence,</hi> it ſeems not to me a Blaſphemy to aſſert the <hi>Incarnation</hi> of the <hi>Word,</hi> whom our <hi>Prophet</hi> calls the <hi>Breath of God.</hi> If this <hi>Breath</hi> or <hi>Word</hi> of God be not of the <hi>Eſſence</hi> of the Divinity, why is that part of the <hi>Chriſtian Goſpel</hi> had in ſuch reverence by the faithful <hi>Muſſulman, In the beginning was the word
+<pb n="22" facs="tcp:50080:15"/> and the Word was with God, and God was the Word?</hi> If the <hi>Word</hi> be of the <hi>Eſſence</hi> of God, then it will neceſſarily follow, that God has taken a human Body; ſince our holy <hi>Prophet</hi> calls him the <hi>Word</hi> of God, whom the Chri<g ref="char:EOLhyphen"/>ſtians adore for <hi>God Incarnate.</hi>
+               </p>
+               <p>Thus we have the ſence of the <hi>Turkiſh</hi> Religion itſelf, not the Authority of the <hi>Spy,</hi> whoever he was, but Rea<g ref="char:EOLhyphen"/>ſon grounded upon the very <hi>Alcoran.</hi>
+               </p>
+               <p>Now, ſeeing there is nothing in the Point of our <hi>Savi<g ref="char:EOLhyphen"/>our</hi>'s Eternal Divinity, that is jarring or diſſonant to the <hi>Reaſon</hi> of Mankind, either among <hi>Jews, Infidels, Turks,</hi> or the <hi>Church</hi> of God; if the <hi>Socinian</hi> yet ſay he will not believe it, becauſe he cannot apprehend it, what remains, but that another would be tempted to number him with the laſt ſort of men in the enumeration, that is, with un<g ref="char:EOLhyphen"/>reaſonable and ſingular <hi>Hereticks.</hi>
+               </p>
+            </div>
+            <div n="9" type="argument">
+               <head>IX. <hi>The Concluſion; a Caveat againſt</hi> Socinianiſm.</head>
+               <div type="section">
+                  <head>1. <hi>To the</hi> Laiety.</head>
+                  <p>I crave Leave to conclude with ſome ſerious Advice to the Friends of our own <hi>Church,</hi> both the <hi>Laiety</hi> and <hi>Clergy,</hi> that they would beware of entangling themſelves in the <hi>Socinian</hi> (tho' ſeemingly Silken) Net.</p>
+                  <p>I beſeech them to conſider, and take a <hi>Proſpect</hi> of the Conſequences, whether its now brisk Efforts <hi>obtain,</hi> or <hi>not.</hi>
+                  </p>
+                  <p>1. Suppoſe it ſhould not prevail among us, but dwin<g ref="char:EOLhyphen"/>dle away, as it hath hither to done, bleſſed be God, yet let our Friends of the <hi>Laiety</hi> conſider the danger they run upon, in their own particulars, by tampering with this <hi>intricate</hi> Controverſie, and tempting God beyond their
+<pb n="23" facs="tcp:50080:15"/> 
+                     <hi>Calling.</hi> Methinks you ſhould have deference to the Church wherein you were born, baptiſed, and educated, and in whoſe <hi>Faith</hi> and <hi>Worſhip</hi> you may undoubtedly be ſaved, eſpecially in thoſe great and fundamental Points of which She hath kept poſſeſſion ever ſince her <hi>firſt Conver<g ref="char:EOLhyphen"/>ſion</hi> to <hi>Chriſtianity,</hi> and wherein She hath had Commu<g ref="char:EOLhyphen"/>nion with the <hi>Catholick Church</hi> in all Ages. Methinks a Gentleman ſhould have a reluctancy, and abhor from <hi>No<g ref="char:EOLhyphen"/>velty</hi> in Faith, and a Religion that was born but <hi>yeſter<g ref="char:EOLhyphen"/>day.</hi>
+                  </p>
+                  <p>Beſides, by prying into <hi>Socinian</hi> Books, you will find a great many Points of our <hi>eſtabliſh'd</hi> Faith, as well as theſe we have diſcourſed of, ſuch <hi>fundamental</hi> things as our <hi>Redemption</hi> by Chriſt, <hi>Santification</hi> by the Holy Ghoſt, the <hi>Nature</hi> and <hi>Efficacy</hi> of the Chriſtian <hi>Sacraments,</hi> and almoſt every thing that is <hi>Evangelical,</hi> is ſtruck at, undermined, and endeavoured to be alter'd, yea, utterly ſubverted by <hi>Socinian</hi> Attacks. And if you like not, as I know you do not, <hi>Anabaptiſm</hi> and <hi>Independency</hi> in others, you will be ſure to meet theſe in moſt of the renowned <hi>Socinian</hi> Authors, who with ſubtilty and ſpight enough endeavour to ruine our <hi>Eccleſiaſtical</hi> as well as <hi>Spiritual</hi> ſtate, the <hi>external form</hi> of our Church in <hi>Baptiſm</hi> and <hi>Epiſcopacy,</hi> as well as our <hi>internal</hi> ſtate, which with the whole <hi>Catholick</hi> Church is founded in the Doctrine of the <hi>Trinity,</hi> and the Deity of our <hi>Saviour, &amp;c.</hi> both for <hi>Faith</hi> and <hi>Worſhip.</hi>
+                  </p>
+                  <p>Conſider then what Tools you have to deal with, be<g ref="char:EOLhyphen"/>fore you cut your Fingers and enſnare your Souls: What Advantage can you expect to reap by theſe intricate Di<g ref="char:EOLhyphen"/>ſputes? They may ſtagger, unſettle, diſorder your <hi>Faith,</hi> diſtract and confound your <hi>Worſhip,</hi> of which you may repent, but never recover to a ſettled and comfortable.
+<pb n="24" facs="tcp:50080:16"/> ſtate, as it was before. I have no more to add here, but to tell you a ſad <hi>Story,</hi> which I had from a perſon of ſin<g ref="char:EOLhyphen"/>gular <hi>Learning</hi> and <hi>Probity,</hi> and the Truth of it is not to be doubted; 'tis this:</p>
+                  <p>This worthy Gentleman met with his <hi>Friend</hi> in <hi>Paris,</hi> and obſerving him to be very melancholy, to look ſadly, and much diſorder'd, who uſed before to be of a pleaſant and brisk Behaviour, ask'd him what was the matter that he found ſuch an Alteration in him; beſides, you were conſtant at our Prayers heretofore, and of late I have found you wanting. 'O that <hi>Hobs,</hi> that vile, damn'd <hi>Hobs,</hi> ſaid he! O that I had never ſeen his Face! He hath ſo ſpoil'd my Faith, by his Diſcourſes about our Saviour, that I am undone as to my former religious courſe of Life: I know not what to do, or how to <hi>pray;</hi> what would I give, that I could go to Church, and ſay my Prayers, as you do, and I have done formerly. To this purpoſe that poor <hi>Gentleman</hi> complain'd of the Miſ<g ref="char:EOLhyphen"/>chief he receiv'd from <hi>Hobs</hi>'s <hi>Socinian</hi> Inſinuations. Pray God our Gentlemen may eſcape the Danger, by avoiding, not running into, the <hi>Labyrinth.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>2ly, To my Brethren of the <hi>Clergy,</hi> I must ſpeak more plainly.</head>
+                  <p>Give me leave to admoniſh you, that if you ſhould be ſo unhappy, as to ſuck in the <hi>Socinian Venom,</hi> and it ſhould not generally diffuſe it ſelf, as I hope in God it never will, yet what a caſe are you in? You have gained <hi>Principles</hi> contrary to your <hi>Obligations,</hi> and what work will they make both in your <hi>Conſciences</hi> and <hi>Practice,</hi> both as <hi>Members</hi> and <hi>Miniſters</hi> of this Church!</p>
+                  <pb n="25" facs="tcp:50080:16"/>
+                  <p>1. Let us reflect a little upon our <hi>Obligations,</hi> as we are <hi>Members</hi> of the Church of <hi>England;</hi> and the rather, becauſe ſome are bold to ſay, that we are let in and out of this Church at our <hi>Baptiſm</hi> and <hi>Death,</hi> only with the ſingle <hi>Creed,</hi> called the <hi>Apoſtle</hi>'s; and are therefore not concern'd in the Faith againſt <hi>Socinus.</hi>
+                  </p>
+                  <p>
+                     <hi>Sol.</hi> But it ought to be well conſider'd, that we are <hi>baptized</hi> in the Name, <hi>i. e.</hi> into the <hi>Faith,</hi> Do<g ref="char:EOLhyphen"/>ctrine, and Worſhip of the <hi>Trinity,</hi> in the ſence of the Church, into which we are admitted by <hi>Baptiſm.</hi>
+                  </p>
+                  <p>At our <hi>Baptiſm</hi> we vow, and promiſe by our <hi>Sure<g ref="char:EOLhyphen"/>ties,</hi> (which when we come of Age we are <hi>bound</hi> to per<g ref="char:EOLhyphen"/>form) to believe <hi>all</hi> the Articles of the Chriſtian Faith: And in her <hi>Expoſition</hi> of the very ſame <hi>Creed,</hi> ſhe tells us, That we believe in God the <hi>Father,</hi> and in God the <hi>Son,</hi> and in God the <hi>Holy Ghoſt;</hi> and when we were catechiſed, we profeſs, and ſay directly, that we ſo <hi>be<g ref="char:EOLhyphen"/>lieve.</hi>
+                  </p>
+                  <p>And as often as we are preſent at the <hi>Prayers</hi> of the Church, eſpecially upon <hi>Sundays</hi> and <hi>Holy days,</hi> we either joyn with the <hi>Creed,</hi> and Publick Worſhip, or we do not; if we do, the Matter is clear; if we do not, we <hi>diſſemble</hi> with God in our <hi>Faith</hi> and <hi>Pray<g ref="char:EOLhyphen"/>ers,</hi> and while we openly profeſs we ſecretly <hi>Re<g ref="char:EOLhyphen"/>nounce</hi> our Intereſt in the COVENANT of GOD.</p>
+                  <p>Laſtly, Though the <hi>Articles</hi> may be thought only Articles of Peace and Concord to thoſe that Subſcribe them, yet nothing is more plain, than that they are Articles of Religion, as they are called, and contain and expreſs the Faith of the CHURCH of ENGLAND moſt emphatically and directly againſt the <hi>Socinians;</hi>
+                     <pb n="26" facs="tcp:50080:17"/> the firſt poſitively aſſerts her Faith in the Holy Divinity; the ſecond, the <hi>Eternal Generation</hi> of the Son of God, and his being <hi>one</hi> Subſtance with the <hi>Father;</hi> the third, That the <hi>Three Creeds ought throughly to be received and believed, becauſe they may be proved by moſt certain war<g ref="char:EOLhyphen"/>rant of Holy Scripture.</hi> Now, of whom doth this Church intend theſe <hi>Creeds</hi> ſhould be <hi>received</hi> and <hi>believed,</hi> if not of her own <hi>Members?</hi>
+                  </p>
+                  <p>
+                     <hi>Obj.</hi> But I know 'tis frequently objected, that there are ſuch hard and damning Sayings in <hi>Athanaſius</hi>'s Creed, that we cannot aſſent to it in <hi>Faith</hi> or <hi>Charity,</hi> eſpecially in the Concluſion; that this is the <hi>Catholick Faith, which except a man faithfully believe, he cannot be ſa<g ref="char:EOLhyphen"/>ved.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 'Tis true, this Sentence ſeems very ſevere, but may it admit of no <hi>Qualification?</hi> He <hi>cannot be ſaved,</hi> according to the ordinary terms or way of Salvation, becauſe, as the <hi>Fathers</hi> ſay, they are out of the <hi>Catholick Faith;</hi> not but that they may be within the Mercy of God, in ſome ſecret or extraordinary way.</p>
+                  <p>I ſee no reaſon to take the Sentence ſo <hi>strictly,</hi> (what<g ref="char:EOLhyphen"/>ever <hi>Athanaſius</hi> thought) as to <hi>damn</hi> every one that be<g ref="char:EOLhyphen"/>lieves not every word in his <hi>Creed:</hi> There is a large and lax-ſence, that may be admitted, to ſave the <hi>Charity</hi> of our <hi>Church</hi> from denouncing Damnation againſt the <hi>Greek</hi> Church, for want of the word <hi>Filioque;</hi> He that doth not believe <hi>faithfully,</hi> he doth not ſay <hi>literally,</hi> or every Word or Saying in't, but rather the <hi>Subſtance</hi> of our Chri<g ref="char:EOLhyphen"/>ſtian Faith touching the <hi>Trinity,</hi> and the <hi>Incarnation</hi> of the Son of God. This ſeems to be better allow'd us, be<g ref="char:EOLhyphen"/>cauſe though it bear the Name of <hi>Athanaſius</hi>'s <hi>Creed,</hi> yet 'tis no <hi>formal Creed,</hi> as the other Creeds are, which begin
+<pb n="27" facs="tcp:50080:17"/> thus, <hi>I believe, &amp;c.</hi> but only a Declaration or <hi>Expoſition</hi> of thoſe two great Articles: In which ſence our Church may be ſuppoſed to ſay, this Creed may be proved by the Holy Scripture. In this large ſence, <hi>I</hi> doubt not, but as we are bound to <hi>repeat</hi> it, ſo we ought to <hi>believe</hi> it.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>2dly,</hi> As <hi>Miniſters,</hi>
+                  </head>
+                  <p>Let it be well conſidered, that <hi>Socinian</hi> Principles being once ſuck'd in, how trouble ſome and <hi>uneaſie</hi> they will be, and what inward Gripes they will cauſe, as ſo much Poy<g ref="char:EOLhyphen"/>ſon in our <hi>Bowels,</hi> as inconſiſtent and repugnant to the <hi>Obligations</hi> that lye upon us.</p>
+                  <p>Not here to inſiſt upon the 39 Articles which we have read before our People, and ſubſcribed <hi>ex animo,</hi> which ſome take to be only <hi>Articles</hi> of <hi>Peace</hi> and Concord. though that Conſideration ſhould be a Bridle to the looſe and extravagant Railery of ſome among us; Did not we <hi>declare</hi> our <hi>unfeigned aſſent and conſent to the uſe of every thing contained in the Book of Common Prayer, at our Inſti<g ref="char:EOLhyphen"/>tution?</hi> Were we not admitted into our <hi>Office,</hi> and unto the <hi>Profits</hi> of our Places, upon theſe Terms? Is not the <hi>Common Prayer</hi> the Rule and Meaſure of our publick Du<g ref="char:EOLhyphen"/>ties?</p>
+                  <p>Now let it be conſidered how agreeable ſuch Principles as we have diſcours'd of are with our neceſſary publick Offices in the Book of <hi>Common Prayer;</hi> how a <hi>Socinian</hi> can ſatisfie himſelf with ſo frequent a Repetition of <hi>Gloria Patri, &amp;c.</hi> how he can in Conſcience ſay the <hi>Nicene</hi> Creed, which he, if a Miniſter of our Church, is bound to do every Lord's-day, <hi>&amp;c.</hi> how he can then alſo, with any Peace in himſelf, ſay the <hi>Letany,</hi> wherein he is to call upon <hi>God the Father, Son,</hi> and <hi>Holy Ghoſt,</hi> as <hi>Three Per<g ref="char:EOLhyphen"/>ſons and One God;</hi> how he can give Thanks upon <hi>Trinity<g ref="char:EOLhyphen"/>Sunday,</hi> for Grace by confeſſion of a <hi>true Faith to acknow<g ref="char:EOLhyphen"/>ledge
+<pb n="28" facs="tcp:50080:18"/> the Glory of the Eternal Trinity,</hi> and to worſhip the <hi>
+                        <g ref="char:V">Ʋ</g>nity,</hi> and pray that God would keep us <hi>stedfaſt in this Faith;</hi> or adminiſter the Holy Communion upon that day, when we are commanded to ſay, <hi>Everlaſting God, who art one God, one Lord, not one only Perſon, but three Perſons in one Subſtance, &amp;c.</hi> Beſides, I have noted above Twenty <hi>Collects,</hi> that occur to us in their proper turns, that conclude with expreſs mention and Honour of the <hi>Holy Trinity,</hi> that we are bound to read as they come in their courſes: Yea, laſtly, how ſhall ſuch Principles ſuffer us to do our Duty to Children, whom we are bound to teach, that by the <hi>Common Creed</hi> they believe in God the <hi>Father,</hi> and in God the <hi>Son,</hi> and in God the <hi>Holy Ghoſt.</hi>
+                  </p>
+                  <p>Now, my Brethren, if we are, or hereafter ſhall be tainted with ſuch Principles as are light with our <hi>Offices</hi> and <hi>Obligations,</hi> we ſee our Caſe; for while we continue in our Places, and under the <hi>Obligations</hi> of our Miniſtry, we muſt either read the <hi>Creeds, Catechiſe</hi> our People ac<g ref="char:EOLhyphen"/>cording to the <hi>Form</hi> preſcribed, and ſay the <hi>Prayers</hi> ac<g ref="char:EOLhyphen"/>cording to the <hi>Rubricks,</hi> or we muſt refuſe to do ſo.</p>
+                  <p>If we refuſe (I do not here cenſure many mens too frequent <hi>Omiſſions</hi> of ſome parts of our Service, for which they think they have ſome neceſſity) but if we conſtant<g ref="char:EOLhyphen"/>ly refuſe to diſcharge our Duty upon <hi>Principle,</hi> eſpecial<g ref="char:EOLhyphen"/>ly in the great Parts or Members of it, as we have in<g ref="char:EOLhyphen"/>ſtanced before, I muſt pronounce, this is a plain <hi>Neglect</hi> of our Duty, a horrid <hi>Schiſm</hi> in our Church, a great <hi>Scandal</hi> and <hi>Temptation</hi> to our People and Neighbour<g ref="char:EOLhyphen"/>hood, and an unaccountable breach of our Truſt, and the Vows, Promiſes and Obligations formally made by us, and reſulting from the nature of our Offices, a forfeiture of all the Profits of our Places, into which we were inducted, upon Conditions of Conformity, and cannot conſiſt with a quiet or good Conſcience.</p>
+                  <pb n="29" facs="tcp:50080:18"/>
+                  <p>On the other ſide, if we do continue to perform all the <hi>Offices</hi> of our Miniſtry <hi>outwardly,</hi> contrary to our inward Principles, we <hi>prevaricate</hi> with Heaven: We cannot juſti<g ref="char:EOLhyphen"/>fie what ſome men dare to ſay, that we read the <hi>Service</hi> as we would read an <hi>Act of Parliament,</hi> or as the <hi>Burden</hi> of our Places; for we are at our <hi>Devotion</hi> in ſolemn Ap<g ref="char:EOLhyphen"/>plications and Addreſſes to the Divine Majeſty; and <hi>God</hi> and <hi>Angels,</hi> and <hi>Men</hi> are Witneſſes of our Hypocriſie and Diſſimulation.</p>
+                  <p>Thus we are entangled in a Snare, and how we ſhould break it and deliver our ſelves, I know not, but either by a <hi>voluntary</hi> leaving our Places, or by being deprived of them by Authority, as Criminals, Diſſenters, Apoſtates, or <hi>Nonconformiſts.</hi>
+                  </p>
+                  <p>Hitherto we have proceeded to caution you upon a Suppoſition, that the Attempts of <hi>Socinians</hi> may prove ineffectual, or not gain much ground among us; but if they ſhould, which the good God avert, the Conſequen<g ref="char:EOLhyphen"/>ces thereof give a ſad Proſpect to all the true Friends of this Church, though Her Enemies may pleaſe themſelves with the premeditation of it.</p>
+                  <p>What Alterations, Diſtractions, Confuſions would <hi>So<g ref="char:EOLhyphen"/>cinianiſm</hi> bring with it? This duly pondered, I hope, will provoke all good men to Watch and Guard againſt all approaches of it. Who ſees not, as this Novel-Hereſie advances, our <hi>Faith,</hi> our <hi>Worſhip,</hi> and <hi>Eccleſiaſtical Go<g ref="char:EOLhyphen"/>vernment</hi> is in danger? If this prevail, we muſt have new <hi>Articles</hi> of Religion, new <hi>Creeds,</hi> and our Prayers and Common Service muſt be almoſt all new; and our Church muſt be quite another thing than now it is (if it ſhall then deſerve that Name) when its Pillars are ſhaken, and its Foundation raſed, which is laid in the Doctrine of the <hi>Trinity,</hi> upon which it ſtood firm in Communion with
+<pb n="30" facs="tcp:50080:19"/> the <hi>Catholick,</hi> as before I obſerved, ever ſince it was a Chriſtian Church.</p>
+                  <p>But that Good GOD, who by his wiſe and watch<g ref="char:EOLhyphen"/>ful <hi>Providence</hi> hath hitherto ſo wonderfully preſerved this Church of Ours from all the ſubtile Deſigns and violent Attacks of Her other Enemies, and doth yet preſerve it; I hope, will never ſuffer us to be ſwallowed up in the bottomleſs Gulph of <hi>Socinianiſm,</hi> for the ſake of his Dear Son, and our Bleſſed Saviour, JESUS CHRIST, to whom with thee, O Father, and the <hi>H. Ghoſt, Three Per<g ref="char:EOLhyphen"/>ſons and One God,</hi> be Honour and Glory in all the <hi>Churches,</hi> World without End.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50080:19" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
